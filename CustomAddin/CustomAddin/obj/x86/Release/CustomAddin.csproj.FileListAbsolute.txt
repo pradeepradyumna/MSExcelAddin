@@ -1,0 +1,5 @@
+T:\ExcelAddinTest\CustomAddin\CustomAddin\bin\x86\Release\CustomAddin.dll
+T:\ExcelAddinTest\CustomAddin\CustomAddin\bin\x86\Release\CustomAddin.pdb
+T:\ExcelAddinTest\CustomAddin\CustomAddin\bin\x86\Release\CustomAddin.dll.manifest
+T:\ExcelAddinTest\CustomAddin\CustomAddin\bin\x86\Release\CustomAddin.vsto
+T:\ExcelAddinTest\CustomAddin\CustomAddin\bin\x86\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
